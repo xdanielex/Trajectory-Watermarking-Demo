@@ -12,6 +12,10 @@ For detailed information regarding the underlying theory, algorithm architecture
 * **Fixed Payload**: Any message provided via `--msg` is internally overridden with: `test2026`.
 * **Usage**: Licensed for technical evaluation and personal use only. Reverse engineering and commercial use are strictly prohibited (see `license.txt`).
 
+### 💼 Commercial Licensing
+This is a limited demonstration version. For commercial versions, full source code access, or custom implementations, please contact:
+**xdaniele.rufox@gmail.com**
+
 ---
 
 ## 💻 System Requirements
