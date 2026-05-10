@@ -63,3 +63,9 @@ trajectory_watermark_final_demo.exe extract --in file_out.mp4 --profile auto --f
 
 **Developer:** Daniele Rufo  
 **Year:** 2026
+---
+
+### Support my Research 🚀
+If you find this project useful for your benchmarks or academic evaluation, consider supporting my independent research:
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/xdanielex272)
