@@ -18,6 +18,14 @@ This is a limited demonstration version. For commercial versions, full source co
 
 ---
 
+### 🌐 Official Academic Publication (Zenodo)
+The theoretical foundations and algorithmic specifications of this architecture have been officially published and archived on **Zenodo**:
+
+👉 **[Read the official paper on Zenodo](https://zenodo.org/records/20303648)**
+
+**How to cite:**
+Rufo, D. (2026). Mathematical Abstract of a DCT-QIM Watermarking System with RS Coding and Soft Beam Decoding. Zenodo. https://doi.org/10.5281/zenodo.20303648
+
 ## 💻 System Requirements
 * **OS**: Windows 11 (64-bit) – *Compiled and optimized for this architecture.*
 * **Dependency**: **FFmpeg** must be installed and added to your system's **PATH**. This is mandatory for all video embedding and extraction features.
