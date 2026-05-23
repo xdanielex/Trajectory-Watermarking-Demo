@@ -8,6 +8,12 @@ Technical demonstration of an invisible watermarking system using **DCT-QIM** (D
 
 For detailed information regarding the underlying theory, algorithm architecture, and performance analysis, please refer to the provided **watermark.pdf** file.
 
+## 📺 Video Demonstration
+
+[![Watch the Watermark Demo](https://img.youtube.com/vi/F7pT-sET_-g/maxresdefault.jpg)](https://www.youtube.com/watch?v=F7pT-sET_-g)
+
+---
+
 ### ⚠️ Demo Restrictions
 * **Fixed Payload**: Any message provided via `--msg` is internally overridden with: `test2026`.
 * **Usage**: Licensed for technical evaluation and personal use only. Reverse engineering and commercial use are strictly prohibited (see `license.txt`).
