@@ -23,7 +23,13 @@ This is a limited demonstration version. For commercial versions, full source co
 **xdaniele.rufox@gmail.com**
 
 ---
+### Trajectory Watermark GUI PRO
 
+An advanced cryptographic utility for data integrity and trajectory-based watermarking, designed for high-precision data protection on Windows.
+
+[![Gumroad](https://img.shields.io/badge/Gumroad-Get%20Trajectory%20Watermark%20PRO-212121?style=for-the-badge&logo=gumroad)](https://xdrufox.gumroad.com/l/watermark)
+
+---
 ### 🌐 Official Academic Publication (Zenodo)
 The theoretical foundations and algorithmic specifications of this architecture have been officially published and archived on **Zenodo**:
 
