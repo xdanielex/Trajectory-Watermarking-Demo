@@ -141,7 +141,6 @@ The watermark needs **4 + 128·N** 8×8 blocks. Stay at or above the minimum siz
 ## 📂 Package Contents
 * `trajectory_watermark_final_demo.exe` – Main application (Windows 11, 64-bit).
 * `trajectory_watermark_final_demo` – Native Linux executable (x86_64).
-* `src/` – Complete source code + external libraries (`stb_image.h`, `stb_image_write.h`).
 * `license.txt` – Legal terms and usage restrictions (English).
 * `watermark.pdf` – Full technical documentation, algorithm details, and test reports.
 
